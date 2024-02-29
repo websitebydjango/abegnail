@@ -13,6 +13,8 @@
 /out/
 .package-lock.json
 
+.yarn
+
 # production
 /build
 
