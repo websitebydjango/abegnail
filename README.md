@@ -1,7 +1,12 @@
-## Getting started
+## Check out some git command
 
-## Topics you already completed
+> try to use it extensively and make it perfect
 
--   [x] Complete git & github
--   [ ] show me the exact things
--   [ ] another person is here
+## Branch Related
+
+-   [x] git branch (see all the branches)
+-   [x] git branch [branch_name] (create branch)
+-   [x] git branch -m [branch_name] (rename branch)
+-   [x] git branch -D [branch_name] (delete branch)
+-   [x] git checkout [branch_name] (moved to branch)
+-   [x] git checkout -b [branch_name] (create & moved in same time)
