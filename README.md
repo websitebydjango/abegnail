@@ -10,3 +10,7 @@
 -   [x] git branch -D [branch_name] (delete branch)
 -   [x] git checkout [branch_name] (moved to branch)
 -   [x] git checkout -b [branch_name] (create & moved in same time)
+
+## Wanted List
+
+-   [] git merge [branch_name]
