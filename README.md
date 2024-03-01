@@ -10,3 +10,10 @@
 -   [x] git branch -D [branch_name] (delete branch)
 -   [x] git checkout [branch_name] (moved to branch)
 -   [x] git checkout -b [branch_name] (create & moved in same time)
+
+## Wanted List
+
+-   [] git merge [branch_name]
+-   [] git merge [branch_name] --squash
+-   [] git remote add [remote_branch_name] [local_branch_name]
+-   [] git fetch [remote_name/branch_name]
