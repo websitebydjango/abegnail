@@ -14,3 +14,4 @@
 ## Wanted List
 
 -   [] git merge [branch_name]
+-   [] git merge [branch_name] --squash
