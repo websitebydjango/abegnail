@@ -16,4 +16,5 @@
 -   [] git merge [branch_name]
 -   [] git merge [branch_name] --squash
 -   [] git remote add [remote_branch_name] [local_branch_name]
--   ## [] git fetch [remote_name/branch_name]
+-   [] git fetch upstream
+-   [] git reset --hard upstream/main
